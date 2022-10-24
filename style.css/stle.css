@@ -3,3 +3,13 @@
     border: solid 1px white;
     min-height: 50px
 }
+
+.light-green{
+    background-color: green;
+    /* max-height: 35px; */
+    border: solid  5px blue;
+}
+
+.mb-2{
+    margin-bottom: 20px;
+}
